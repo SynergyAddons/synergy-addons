@@ -19,6 +19,7 @@ Including:
 ## Images
 
 [Login](https://github.com/gubareve/synergy-addons/blob/master/images/1.png)
+
 [Home](https://github.com/gubareve/synergy-addons/blob/master/images/2.png)
 
 ## Credit

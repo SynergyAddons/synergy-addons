@@ -19,7 +19,7 @@ IF USING GITHUB DESKTOP
 1. `git clone git@github.com:gubareve/synergy-addons.git`
 
 IF USING GITHUB ONLINE
-1. Download [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as zip, extract file.
+1. Download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the file.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 

@@ -7,7 +7,7 @@
       "https://wa-bsd405-psv.edupoint.com/*"
     ],
       
-    "js": ["content.js", "studentid.js"]
+    "js": ["content.js", "studentid.js", "dark.js"]
   }
 ],
     "background": {

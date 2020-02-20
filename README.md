@@ -4,6 +4,7 @@ Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 ## Credit
 
 Credit goes to Rishi P, and Evan G.
+[Rishi P.](https://github.com/thexpiredpear)  [Evan G.](https://github.com/gubareve)
 
 ## Installation
 IF USING GITHUB DESKTOP

@@ -18,8 +18,8 @@ Including:
 
 ## Images
 
-![](images/Screen Shot 2020-02-20 at 1.16.39 PM.png)
-![](images/Screen Shot 2020-02-20 at 1.05.59 PM.png)
+![](images/1.png)
+![](images/2.png)
 
 ## Credit
 

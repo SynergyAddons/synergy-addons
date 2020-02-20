@@ -1,5 +1,5 @@
 # (BETA) Synergy Addons
-[![Size]https://img.shields.io/github/repo-size/gubareve/synergy-addons]
+![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 
 Including:

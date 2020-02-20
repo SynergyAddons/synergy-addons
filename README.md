@@ -16,6 +16,11 @@ Including:
 2. Student ID Hider
 - Keep away prying eyes
 
+## Images
+
+![](Screen Shot 2020-02-20 at 1.16.39 PM.png)
+![](Screen Shot 2020-02-20 at 1.05.59 PM.png)
+
 ## Credit
 
 Credit goes to [Rishi P.](https://github.com/thexpiredpear) and [Evan G.](https://github.com/gubareve)

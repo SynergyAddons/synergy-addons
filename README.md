@@ -29,12 +29,11 @@ Credit goes to [Rishi P.](https://github.com/thexpiredpear) and [Evan G.](https:
 
 ## Installation
 IF USING GITHUB DESKTOP
-1. `git clone git@github.com:gubareve/synergy-addons.git`
+1a. `git clone git@github.com:gubareve/synergy-addons.git`
 
 IF USING GITHUB ONLINE
-1. Download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the file.
+1b. Download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the file.
 
-----------------------------------------------------------------------------------------------------------------------------------------
 
 2. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 

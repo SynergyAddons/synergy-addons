@@ -1,6 +1,14 @@
-# Synergy Addons
+# (BETA) Synergy Addons
 
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.
+
+Including:
+
+1. Dark Mode
+- Better for your eyes.
+2. Student ID Hider
+- Keep away prying eyes
+
 ## Credit
 
 Credit goes to [Rishi P.](https://github.com/thexpiredpear) and [Evan G.](https://github.com/gubareve)

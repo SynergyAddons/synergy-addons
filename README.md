@@ -1,6 +1,9 @@
 # Synergy Addons
 
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.
+## Credit
+
+Credit goes to Rishi P, and Evan G.
 
 ## Installation
 
@@ -19,4 +22,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)

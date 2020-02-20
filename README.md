@@ -6,8 +6,11 @@ Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 Credit goes to Rishi P, and Evan G.
 
 ## Installation
-
+#IF USING GITHUB DESKTOP
 1. `git clone git@github.com:gubareve/synergy-addons.git`
+
+#IF USING GITHUB ONLINE
+1. Download file as zip, extract file.
 
 2. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 

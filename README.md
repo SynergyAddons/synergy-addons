@@ -26,6 +26,7 @@ IF USING GITHUB ONLINE
 2. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 
 3. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
+
 ## Usage
 
 You don't need to do anything. Whenever you visit StudentVUE, all the tweaks will be applied just like magic.

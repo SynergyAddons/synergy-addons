@@ -29,9 +29,11 @@ Credit goes to [Rishi P.](https://github.com/thexpiredpear) and [Evan G.](https:
 
 ## Installation
 IF USING GITHUB DESKTOP
+
 1a. `git clone git@github.com:gubareve/synergy-addons.git`
 
 IF USING GITHUB ONLINE
+
 1b. Download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the file.
 
 

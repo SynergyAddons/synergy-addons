@@ -5,6 +5,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gubareve/synergy-addons)
 ![GitHub language count](https://img.shields.io/github/languages/count/gubareve/synergy-addons)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/gubareve/synergy-addons)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/nbicokodplfghgllebkialdbpdljfinc)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc)
 
 
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.

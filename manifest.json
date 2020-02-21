@@ -7,8 +7,8 @@
       "https://wa-bsd405-psv.edupoint.com/*"
     ],
       
-    "js": ["content.js", "studentid.js", "dark.js", "calender.js", "greeting.js", "a.js"],
-    "css": ["content.css"]
+    "js": ["content.js", "studentid.js", "dark.js", "calender.js", "greeting.js", "a.js"]
+
   }
 ],
     "background": {

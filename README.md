@@ -1,7 +1,7 @@
 # (BETA) Synergy Addons
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gubareve/synergy-addons?label=commits)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gubareve/synergy-addons)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gubareve/synergy-addons)
 ![GitHub language count](https://img.shields.io/github/languages/count/gubareve/synergy-addons)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/gubareve/synergy-addons)

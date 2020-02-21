@@ -1,1 +1,4 @@
-document.styleSheets[0].insertRule('.UnreadMessage:hover { background-color: #808080; }', document.styleSheets[0].cssRules.length);
+var messages = document.getElementsByClassName("UnreadMessage");
+for (i = 0, i < messages.length, i++) {
+messages[i].style.backgroundColor = '#323232';
+}

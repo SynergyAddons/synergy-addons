@@ -1,4 +1,3 @@
-
 # (BETA) Synergy Addons
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)
@@ -25,7 +24,7 @@ Including:
 
 ## Credit
 
-Credit goes to [Rishi P.](https://github.com/thexpiredpear) and [Evan G.](https://github.com/gubareve)
+Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://github.com/thexpiredpear).
 
 
 ## Installation

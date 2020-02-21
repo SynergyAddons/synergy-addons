@@ -24,7 +24,7 @@ Including:
 
 ## Credit
 
-Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://github.com/thexpiredpear).
+Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://github.com/thexpiredpear)
 
 
 ## Installation

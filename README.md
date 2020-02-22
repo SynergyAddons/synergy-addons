@@ -15,9 +15,11 @@ Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 Including:
 
 1. Dark Mode
-- Better for your eyes.
+- Better for sleep due to significantly ore secretion of melatonin
+- Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision
+- Massively increases battery life
 2. Student ID Hider
-- Keep away prying eyes
+- Keep away prying eyes that can steal your lunch money and check out bookis in your name, costing you money
 
 ## Images
 

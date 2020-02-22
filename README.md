@@ -15,11 +15,11 @@ Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 Including:
 
 1. Dark Mode
-- Better for sleep due to significantly ore secretion of melatonin
-- Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision
-- Massively increases battery life
+ - Better for sleep due to significantly ore secretion of melatonin
+ - Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision
+ - Massively increases battery life
 2. Student ID Hider
-- Keep away prying eyes that can steal your lunch money and check out bookis in your name, costing you money
+ - Keep away prying eyes that can steal your lunch money and check out bookis in your name, costing you money
 
 ## Images
 
@@ -39,6 +39,8 @@ or download this [file](https://github.com/gubareve/synergy-addons/archive/maste
 
 2. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 3. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
+
+***CURRENTLY IN PROCESS OF UPLOADING TO CHROME WEB STORE***
 
 ## Usage
 

@@ -19,7 +19,7 @@ Including:
  - Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision
  - Massively increases battery life
 2. Student ID Hider
- - Keep away prying eyes that can steal your lunch money and check out bookis in your name, costing you money
+ - Keep away prying eyes that can steal your lunch money and check out books in your name, costing you money
 
 ## Images
 

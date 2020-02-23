@@ -37,14 +37,13 @@ Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://git
 
 
 ## Installation
+**CHROME WEB STORE LINK: [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?)**
 
 1. `git clone git@github.com:gubareve/synergy-addons.git`
 or download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the file.
 
 2. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 3. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
-
-***CURRENTLY IN PROCESS OF UPLOADING TO CHROME WEB STORE***
 
 ## Usage
 

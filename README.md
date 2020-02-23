@@ -39,6 +39,8 @@ Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://git
 ## Installation
 **CHROME WEB STORE LINK: [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?)**
 
+For Beta:
+
 1. `git clone git@github.com:gubareve/synergy-addons.git`
 or download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the file.
 

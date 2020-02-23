@@ -1,3 +1,5 @@
+## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint. Nor should it be considered a company endorsed by Edupoint.
+
 # (BETA) Synergy Addons
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)

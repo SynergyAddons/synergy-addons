@@ -5,6 +5,21 @@ body{
     color: white;
 }
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+.button {
+  display: inline-flex;
+  height: 40px;
+  width: 30%;
+  border: 2px solid #BFC0C0;
+  margin: 20px 20px 20px 20px;
+  color: #BFC0C0;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: .8em;
+  letter-spacing: 1.5px;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
 #arrow-hover {
   width: 15px;
   height: 10px;

@@ -10,4 +10,15 @@ sourceclicked.onclick = function(element) {
     
   };
 
+if(document.getElementById("yes").checked == true) {
+    chrome.storage.local.set({"enabled": true}, function() {
+          console.log('Extension enabled');
+        });
+} else {
+      chrome.storage.local.set({"enabled": false}, function() {
+          console.log('Extension disabled');
+        });
+};
+
+
 

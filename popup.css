@@ -1,4 +1,24 @@
 body{
     width: 450px;
     height:450px;
+    background-color: #323232;
+    color: white;
+}
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+#arrow-hover {
+  width: 15px;
+  height: 10px;
+  position: absolute;
+  transform: translateX(60px);
+  opacity: 0;
+  -webkit-transition: all .25s cubic-bezier(.14, .59, 1, 1.01);
+  transition: all .15s cubic-bezier(.14, .59, 1, 1.01);
+  margin: 0;
+  padding: 0 5px;
+}
+
+a#button-1:hover img {
+  width: 15px;
+  opacity: 1;
+  transform: translateX(80px);
 }

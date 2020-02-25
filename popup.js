@@ -11,12 +11,14 @@ sourceclicked.onclick = function(element) {
   };
    chrome.storage.local.set({'enabled': true}, function() {
         });
-document.getElementById("yes").onclick = function {
+document.getElementById("yes").onclick = function() {
    chrome.storage.local.set({'enabled': true}, function() {
+     console.log('Extension enabled');
         });
 }
-document.getElementById("no").onclick = function {
+document.getElementById("no").onclick = function() {
    chrome.storage.local.set({'enabled': false}, function() {
+            console.log('Extension disabled');
         });
 }
 

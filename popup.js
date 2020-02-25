@@ -9,16 +9,16 @@ sourceclicked.onclick = function(element) {
 });
     
   };
-
-if(document.getElementById("yes").checked == true) {
-    chrome.storage.local.set({"enabled": true}, function() {
-          console.log('Extension enabled');
+   chrome.storage.local.set({'enabled': true}, function() {
         });
-} else {
-      chrome.storage.local.set({"enabled": false}, function() {
-          console.log('Extension disabled');
+document.getElementById("yes").onclick = function {
+   chrome.storage.local.set({'enabled': true}, function() {
         });
-};
+}
+document.getElementById("no").onclick = function {
+   chrome.storage.local.set({'enabled': false}, function() {
+        });
+}
 
 
 

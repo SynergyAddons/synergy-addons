@@ -21,6 +21,16 @@ document.getElementById("no").onclick = function() {
             console.log('Extension disabled');
         });
 }
+document.getElementById("e").onclick = function() {
+   chrome.storage.local.set({'enabled': true}, function() {
+     console.log('Extension enabled');
+        });
+}
+document.getElementById("no-e").onclick = function() {
+   chrome.storage.local.set({'enabled': false}, function() {
+            console.log('Extension disabled');
+        });
+}
 
 
 

@@ -1,3 +1,5 @@
+chrome.storage.local.get(['enabled'], function(data) {
+    if (data.enabled) {
 if(window.location.pathname == "/PXP2_Messages.aspx") {
 	tr = document.getElementsByTagName('tr');
 	for(i = 0; i < tr.length; i++) {
@@ -13,3 +15,4 @@ var content = document.getElementsByClassName("MessageContent");
 for (i = 0; i < content.length; i++) {
 content[i].setAttribute('style', 'background-color: #323232');
 };
+    };

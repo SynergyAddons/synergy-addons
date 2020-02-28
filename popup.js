@@ -9,24 +9,24 @@ sourceclicked.onclick = function(element) {
 });
     
   };
-   chrome.storage.local.set({'enabled': "true"}, function(data) {
+   chrome.storage.local.set({'enabled': "true"}, function() {
         });
 document.getElementById("yes").onclick = function() {
-   chrome.storage.local.set({'enabled': "true"}, function(data) {
+   chrome.storage.local.set({'enabled': "true"}, function() {
      console.log('Extension enabled');
         });
 }
 document.getElementById("no").onclick = function() {
-   chrome.storage.local.set({'enabled': "false"}, function(data) {
+   chrome.storage.local.set({'enabled': "false"}, function() {
             console.log('Extension disabled');
         });
 }
 document.getElementById("e").onclick = function() {
-   chrome.storage.local.set({'enabled: true}, function(data) {
+   chrome.storage.local.set({'enabled: true}, function() {
      console.log('Extension enabled');
         });
 }
-document.getElementById("no-e").onclick = function(data) {
+document.getElementById("no-e").onclick = function() {
    chrome.storage.local.set({'enabled': "false"}, function() {
             console.log('Extension disabled');
         });

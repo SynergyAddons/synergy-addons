@@ -22,7 +22,7 @@ document.getElementById("no").onclick = function() {
         });
 }
 document.getElementById("e").onclick = function() {
-   chrome.storage.local.set({'enabled: true}, function() {
+   chrome.storage.local.set({'enabled: "true"}, function() {
      console.log('Extension enabled');
         });
 }

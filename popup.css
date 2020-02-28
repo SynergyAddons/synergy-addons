@@ -85,36 +85,3 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* general styling */
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-body {
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  background-color: #f1f2f3;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
-.container {
-  margin: 0 auto;
-}

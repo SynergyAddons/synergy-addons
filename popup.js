@@ -10,6 +10,14 @@ sourceclicked.onclick = function(element) {
     
   };
 var storage = chrome.storage.local;
+storage.get('enabled', function(data) {
+  if(typeof data.enabled == 'undefined' || data.enabled = 'y') {
+    document.getElementById('checkbox').checked = true;
+  } else {
+    document.getElementById('checkbox').checked = false;
+  };
+};
+  
 function setEnabled() {
   var checked = this.checked;
   if(checked) {
@@ -18,7 +26,7 @@ function setEnabled() {
       });
       
      } else {
-       storage.set({'enabled':'cn'},function(){
+       storage.set({'enabled':'n'},function(){
         console.log("saved");
       });
        

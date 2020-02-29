@@ -18,7 +18,7 @@ storage.get('enabled', function(data) {
   };
 };
   
-function setEnabled() {
+window.addEventListener('change', function (){
   var checked = this.checked;
   if(checked) {
         storage.set({'enabled':'y'},function(){
@@ -31,5 +31,5 @@ function setEnabled() {
       });
        
      };
-};
+});
   

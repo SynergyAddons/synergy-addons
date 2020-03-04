@@ -13,6 +13,7 @@
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc)
 
+#NO BS POLICY: Synegy Addons extension doesn't collect/share/care about your data at all. The ONLY reason we ask for page access is to change the background color on your screen.
 
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 

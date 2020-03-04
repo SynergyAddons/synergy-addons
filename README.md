@@ -3,6 +3,8 @@
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint. Nor should it be considered a project endorsed by Edupoint.
 
+# NO BS POLICY: Synegy Addons extension doesn't collect/share/care about your data at all. The ONLY reason we ask for page access is to change the background color on your screen.
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gubareve/synergy-addons)
@@ -13,7 +15,6 @@
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc)
 
-#NO BS POLICY: Synegy Addons extension doesn't collect/share/care about your data at all. The ONLY reason we ask for page access is to change the background color on your screen.
 
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 

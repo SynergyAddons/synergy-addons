@@ -1,5 +1,5 @@
 
-# (BETA) Synergy Addons
+# (PUBLIC BETA) Synergy Addons
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint. Nor should it be considered a project endorsed by Edupoint.
 

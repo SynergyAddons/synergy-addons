@@ -3,7 +3,7 @@
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint. Nor should it be considered a project endorsed by Edupoint.
 
-## NO BS POLICY: Synegy Addons extension doesn't collect/share/care about your data at all. The ONLY reason we ask for page access is to change the background color on your screen.
+## NO BS POLICY: Synegy Addons extension does not collect any of your data at all. The ONLY reason we ask for page access is to modify the StudentVUE graphics
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)

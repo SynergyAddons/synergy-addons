@@ -1,3 +1,5 @@
+var storage = chrome.storage.local;
+storage.get('enabled', function(data) {
 if(window.location.pathname == "/PXP2_Messages.aspx") {
 	tr = document.getElementsByTagName('tr');
 	for(i = 0; i < tr.length; i++) {
@@ -8,8 +10,10 @@ if(window.location.pathname == "/PXP2_Messages.aspx") {
 			this.setAttribute('style', 'background-color: #323232')
 		});
 	};
-};
 var content = document.getElementsByClassName("MessageContent");
 for (i = 0; i < content.length; i++) {
 content[i].setAttribute('style', 'background-color: #323232');
 };
+
+  };
+});

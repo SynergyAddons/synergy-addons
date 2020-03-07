@@ -1,7 +1,7 @@
-  let sourceclicked = document.getElementById('source');
+var sourceclicked = document.getElementsByClassName('source');
+var source = sourceclicked[0];
 
-
-sourceclicked.onclick = function(element) {
+source.onclick = function(element) {
    chrome.windows.create({
   url: "https://github.com/gubareve/synergy-addons",
   type: "popup",
@@ -11,15 +11,15 @@ sourceclicked.onclick = function(element) {
   };
 var storage = chrome.storage.local;
 storage.get('enabled', function(data) {
-  if(typeof data.enabled == 'undefined' || data.enabled = 'y') {
+  if(data.enabled == 'undefined' || data.enabled == 'y') {
     document.getElementById('checkbox').checked = true;
   } else {
     document.getElementById('checkbox').checked = false;
   };
-};
+});
   
 window.addEventListener('change', function (){
-  var checked = this.checked;
+  var checked = document.getElementById('checkbox').checked;
   if(checked) {
         storage.set({'enabled':'y'},function(){
         console.log("saved");
@@ -32,4 +32,3 @@ window.addEventListener('change', function (){
        
      };
 });
-  

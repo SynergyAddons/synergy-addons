@@ -64,7 +64,7 @@ If you make a big enough change, we will credit you.
 
 ## Note For Other Districts
 
-Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest.json. Please provide a link to the original project wiht compliance with APACHE2.0.
+Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest.json. Please provide a link to the original project with compliance with APACHE2.0.
 
 ## License
 [APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)

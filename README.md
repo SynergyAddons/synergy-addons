@@ -1,7 +1,9 @@
 
-# (BETA) Synergy Addons
+# (PUBLIC BETA) Synergy Addons
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint. Nor should it be considered a project endorsed by Edupoint.
+
+## NO BS POLICY: Synegy Addons extension doesn't collect/share/care about your data at all. The ONLY reason we ask for page access is to change the background color on your screen.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)
@@ -56,7 +58,11 @@ You don't need to do anything. Whenever you visit StudentVUE, all the tweaks wil
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+If you make a big enough change, we will credit you.
+
+## Note For Other Districts
+
+Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest.json. Please provide a link to the original project wiht compliance with APACHE2.0.
 
 ## License
 [APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)

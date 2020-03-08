@@ -6,8 +6,8 @@
 ## NO BS POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
-![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gubareve/synergy-addons)
+![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons?color=%23ff0000)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/gubareve/synergy-addons)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gubareve/synergy-addons)
 ![GitHub language count](https://img.shields.io/github/languages/count/gubareve/synergy-addons)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/gubareve/synergy-addons)

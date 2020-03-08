@@ -39,7 +39,7 @@ Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://git
 
 
 ## Installation
-**CHROME WEB STORE LINK: [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?)**
+[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 
 ___
 

@@ -15,6 +15,7 @@
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc)
 
+[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 
@@ -39,7 +40,7 @@ Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://git
 
 
 ## Installation
-[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?hl=en)
+**CHROME WEB STORE LINK: [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?)**
 
 ___
 

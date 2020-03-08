@@ -1,7 +1,9 @@
 
-# (BETA) Synergy Addons
+# (PUBLIC BETA) Synergy Addons
 
-## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint. Nor should it be considered a project endorsed by Edupoint.
+## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint, nor should it be considered a project endorsed by Edupoint.
+
+## NO BS POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)
@@ -9,10 +11,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gubareve/synergy-addons)
 ![GitHub language count](https://img.shields.io/github/languages/count/gubareve/synergy-addons)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/gubareve/synergy-addons)
-![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/nbicokodplfghgllebkialdbpdljfinc)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/nbicokodplfghgllebkialdbpdljfinc&color=%23ff0000&label=ratings)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc)
 
+[<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 
 Synergy Addons tweaks defualt Synergy Studentvue with needed features.
 
@@ -56,7 +60,11 @@ You don't need to do anything. Whenever you visit StudentVUE, all the tweaks wil
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+If you make a big enough change, we will credit you.
+
+## Note For Other Districts
+
+Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest.json. Please provide a link to the original project with compliance with APACHE2.0.
 
 ## License
 [APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)

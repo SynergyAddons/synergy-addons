@@ -3,7 +3,7 @@
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint, nor should it be considered a project endorsed by Edupoint.
 
-## NO BS POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the background color on your screen.*
+## NO BS POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons)

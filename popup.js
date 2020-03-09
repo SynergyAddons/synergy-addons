@@ -11,6 +11,12 @@ source.onclick = function(element) {
   };
 
 var storage = chrome.storage.local;
+chrome.runtime.onInstalled.addListener(function() {
+  document.getElementById('checkbox').checked = true;
+  storage.set({'enabled':'y'},function(){
+        console.log("saved");
+});
+});
 storage.get('enabled', function(data) {
   if(data.enabled == 'y'|| data.enabled == null) {
     document.getElementById('checkbox').checked = true;

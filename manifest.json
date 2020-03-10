@@ -1,13 +1,13 @@
 {
   "name": "Synergy Addons",
-  "version": "1.2",
+  "version": "1.3",
     "content_scripts": [
   {
     "matches": [
       "https://wa-bsd405-psv.edupoint.com/*"
     ],
       
-    "js": ["content.js", "studentid.js", "dark.js", "calender.js", "greeting.js", "a.js", "b.js"]
+    "js": ["content.js", "studentid.js", "dark.js", "calender.js", "greeting.js", "a.js", "messages.js"]
 
   }
 ],

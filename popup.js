@@ -11,14 +11,26 @@ source.onclick = function(element) {
   };
 
 var storage = chrome.storage.local;
-chrome.runtime.onInstalled.addListener(function() {
-  document.getElementById('checkbox').checked = true;
-  storage.set({'enabled':'y'},function(){
-        console.log("saved");
+chrome.runtime.onInstalled.addListener(function(details){
+    if(details.reason == "install"){
+document.getElementById('checkbox').checked = true;
+        chrome.storage.local.set({
+            'enabled': 'y'
+        }, function() {});
+    };
 });
-});
+
 storage.get('enabled', function(data) {
-  if(data.enabled == 'y'|| data.enabled == null) {
+    if (data.enabled == null) {
+	document.getElementById('checkbox').checked = true;
+        chrome.storage.local.set({
+            'enabled': 'y'
+        }, function() {});
+    };
+});
+
+storage.get('enabled', function(data) {
+  if(data.enabled == 'y') {
     document.getElementById('checkbox').checked = true;
   } else {
     document.getElementById('checkbox').checked = false;

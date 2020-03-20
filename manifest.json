@@ -24,10 +24,6 @@
     },
 
     "permissions": ["activeTab", "declarativeContent", "storage"],
-  "options_ui": {
-    "page": "index.html",
-    "chrome_style": false
-},
   "description": "Lots of modifications to Synergy StudentVUE!",
   "manifest_version": 2
 }

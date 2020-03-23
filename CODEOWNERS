@@ -1,6 +1,7 @@
 *       @gubareve @thexpiredpear
 *.js    @gubareve @thexpiredpear
-*.json    @gubareve @thexpiredpear
+*.json    @gubareve
 *.html    @gubareve @thexpiredpear
 *.css    @gubareve @thexpiredpear
 *.md    @gubareve @thexpiredpear
+/images/ @gubareve

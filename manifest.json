@@ -7,7 +7,7 @@
       "https://wa-bsd405-psv.edupoint.com/*"
     ],
       
-    "js": ["content.js", "studentid.js", "dark.js", "calender.js", "greeting.js", "a.js", "messages.js"]
+    "js": ["content.js", "studentid.js", "dark.js", "calender.js", "greeting.js", "a.js", "messages.js, popup.js"]
 
   }
 ],
@@ -23,7 +23,7 @@
     }  
     },
 
-    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "permissions": ["activeTab", "declarativeContent", "storage", "tabs"],
   "description": "Lots of modifications to Synergy StudentVUE!",
   "manifest_version": 2
 }

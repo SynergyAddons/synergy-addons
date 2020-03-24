@@ -16,6 +16,7 @@ source.onclick = function(element) {
 var storage = chrome.storage.local;
 chrome.runtime.onInstalled.addListener(function(details){
     if(details.reason == "install"){
+	    chrome.tabs.create({url:"popup.html"});
 document.getElementById('checkbox').checked = true;
         chrome.storage.local.set({
             'enabled': 'y'

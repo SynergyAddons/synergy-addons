@@ -9,7 +9,11 @@ if(window.location.pathname == "/PXP2_Messages.aspx") {
 <<<<<<< HEAD
 =======
 		tr[i].addEventListener('click', function() {
+<<<<<<< HEAD
 			document.querySelector('tr.MessageContent > td').style.backgroundColor ='#323232';
+=======
+			document.querySelector('tr.MessageContent > td').style.backgroundColor = 'gray';
+>>>>>>> parent of 0fa8f02... Revert "Update messages.js"
 		});
 >>>>>>> parent of af2aeba... Revert "Update messages.js"
 		tr[i].addEventListener('mouseover', function() {

@@ -5,9 +5,10 @@ var storage = chrome.storage.local;
 storage.get('enabled', function(data) {
 if(window.location.pathname == "/PXP2_Messages.aspx") {
 	tr = document.getElementsByTagName('tr');
+	document.querySelector('tr.MessageContent > td').style.backgroundColor = 'gray';
 	for(i = 0; i < tr.length; i++) {
 		tr[i].addEventListener('click', function() {
-			document.querySelector('tr.MessageContent > td').style.backgroundColor = 'gray';
+			document.getElementsByClassName("MessageContent").setAttribute('style', 'background-color: #323232');
 		});
 		tr[i].addEventListener('mouseover', function() {
 			this.setAttribute('style', 'background-color: #808080');

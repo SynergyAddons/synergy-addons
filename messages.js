@@ -7,7 +7,7 @@ if(window.location.pathname == "/PXP2_Messages.aspx") {
 	tr = document.getElementsByTagName('tr');
 	for(i = 0; i < tr.length; i++) {
 		tr[i].addEventListener('click', function() {
-			document.querySelector('tr.MessageContent > td').style.backgroundColor ='#323232';
+			document.querySelector('tr.MessageContent > td').style.backgroundColor = 'gray';
 		});
 		tr[i].addEventListener('mouseover', function() {
 			this.setAttribute('style', 'background-color: #808080');

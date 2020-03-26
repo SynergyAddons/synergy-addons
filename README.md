@@ -68,3 +68,4 @@ Currently, the extension only works for the Bellevue School District. If someone
 
 ## License
 [APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
+© KD7T Enterprises, Rishi Pudippedi, Johan Novak

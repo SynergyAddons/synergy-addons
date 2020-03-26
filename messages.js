@@ -6,6 +6,12 @@ storage.get('enabled', function(data) {
 if(window.location.pathname == "/PXP2_Messages.aspx") {
 	tr = document.getElementsByTagName('tr');
 	for(i = 0; i < tr.length; i++) {
+<<<<<<< HEAD
+=======
+		tr[i].addEventListener('click', function() {
+			document.querySelector('tr.MessageContent > td').style.backgroundColor ='#323232';
+		});
+>>>>>>> parent of af2aeba... Revert "Update messages.js"
 		tr[i].addEventListener('mouseover', function() {
 			this.setAttribute('style', 'background-color: #808080')
 		});

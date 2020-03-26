@@ -5,7 +5,9 @@ var storage = chrome.storage.local;
 storage.get('enabled', function(data) {
 if(window.location.pathname == "/PXP2_Messages.aspx") {
 	tr = document.getElementsByTagName('tr');
+	document.querySelector('tr.MessageContent > td').style.backgroundColor = 'gray';
 	for(i = 0; i < tr.length; i++) {
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 		tr[i].addEventListener('click', function() {
@@ -16,11 +18,16 @@ if(window.location.pathname == "/PXP2_Messages.aspx") {
 >>>>>>> parent of 0fa8f02... Revert "Update messages.js"
 		});
 >>>>>>> parent of af2aeba... Revert "Update messages.js"
+=======
+		tr[i].addEventListener('click', function() {
+			document.getElementsByClassName("MessageContent").setAttribute('style', 'background-color: #323232');
+		});
+>>>>>>> parent of e3b3623... Revert "Update messages.js"
 		tr[i].addEventListener('mouseover', function() {
-			this.setAttribute('style', 'background-color: #808080')
+			this.setAttribute('style', 'background-color: #808080');
 		});
 		tr[i].addEventListener('mouseleave', function() {
-			this.setAttribute('style', 'background-color: #323232')
+			this.setAttribute('style', 'background-color: #323232');
 		});
 	};
 var content = document.getElementsByClassName("MessageContent");

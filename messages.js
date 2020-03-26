@@ -13,6 +13,7 @@ if(window.location.pathname == "/PXP2_Messages.aspx") {
 			this.setAttribute('style', 'background-color: #323232')
 		});
 	};
+document.querySelector('tr.MessageContent > td').style.backgroundColor = 'gray'
 var content = document.getElementsByClassName("MessageContent");
 for (i = 0; i < content.length; i++) {
 content[i].setAttribute('style', 'background-color: #323232');

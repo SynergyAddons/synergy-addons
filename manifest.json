@@ -1,7 +1,11 @@
 {
   "name": "Synergy Addons",
   "version": "1.3",
-    "content_scripts": [
+   "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
   {
     "matches": [
       "https://wa-bsd405-psv.edupoint.com/*"

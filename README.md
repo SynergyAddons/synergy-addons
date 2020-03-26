@@ -72,4 +72,4 @@ The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addo
 
 ## License
 [APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
-© KD7T Enterprises, Rishi Pudippedi, Johan Novak
+© 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)

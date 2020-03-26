@@ -1,7 +1,8 @@
 *       @gubareve @thexpiredpear
-*.js    @gubareve @thexpiredpear
+*.js    @gubareve @thexpiredpear @wickedtree
 *.json    @gubareve
-*.html    @gubareve @thexpiredpear
+*.html    @gubareve @thexpiredpear @wickedtree
 *.css    @gubareve @thexpiredpear
 *.md    @gubareve @thexpiredpear
-/images/ @gubareve
+/images/* @gubareve
+/images/logo/ @wickedtree

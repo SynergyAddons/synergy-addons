@@ -5,4 +5,4 @@
 *.css    @gubareve @thexpiredpear
 *.md    @gubareve @thexpiredpear
 /images/* @gubareve
-/images/logos @wickedtree
+/images/logos/ @wickedtree

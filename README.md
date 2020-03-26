@@ -27,17 +27,17 @@ Including:
  - Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision
  - Massively increases battery life
 2. Student ID Hider
- - Keep away prying eyes that can steal your lunch money and check out books in your name, costing you money
+ - Keep away prying eyes that can steal your lunch money and check out books in your name, costing you money!
 
 ## Images
-
-[Login](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/1.png)
-
-[Home](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png)
+### Login Page
+![Login](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/1.png)
+### Dashboard
+![Home](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png)
 
 ## Credit
 
-Credit goes to [Evan G.](https://github.com/gubareve) and [Rishi P.](https://github.com/thexpiredpear)
+Credit goes to [Evan G.](https://github.com/gubareve), [Rishi P.](https://github.com/thexpiredpear), and [Johan N.](https://github.com/wickedtree)
 
 
 ## Installation
@@ -55,9 +55,9 @@ or download this [file](https://github.com/gubareve/synergy-addons/archive/maste
 
 ## Usage
 
-You don't need to do anything. Whenever you visit StudentVUE, all the tweaks will be applied just like magic.
+You are able to turn this Extension on or off by clicking the synergy addons icon to the right of the address bar. Whenever you visit StudentVUE and the extension is activated, all the tweaks will be applied just like magic.
 
-## Contributing
+## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 If you make a big enough change, we will credit you.

@@ -37,7 +37,7 @@ Including:
 
 ## Credit
 
-Credit goes to [Evan G.](https://github.com/gubareve), [Rishi P.](https://github.com/thexpiredpear), and [Johan N.](https://github.com/wickedtree)
+Original project by [Evan G.](https://github.com/gubareve) and [Rishi P.](https://github.com/thexpiredpear). Additional credit to [Johan N.](https://github.com/wickedtree)
 
 
 ## Installation

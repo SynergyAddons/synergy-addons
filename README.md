@@ -3,7 +3,7 @@
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint, nor should it be considered a project endorsed by Edupoint.
 
-## NO BS POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
+## OUR POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
 
 ## Please Note: When installing Synergy Addons for Google Chrome™, you will receive a warning that Synergy Addons will receive access to your browsing history and data. This is a standard message - we NEVER collect any user information.
 

@@ -7,4 +7,5 @@ welcome.html @gubareve @thexpiredpear
 *.css    @gubareve @thexpiredpear
 *.md    @gubareve @thexpiredpear
 /images/* @gubareve
+/images/logo/* @wickedtree
 SECURITY.md @gubareve

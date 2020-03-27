@@ -5,6 +5,8 @@
 
 ## NO BS POLICY: Synergy Addons extension **does not** collect your data **at all**. *The ONLY reason we ask for page access is to change the visuals of Synergy.*
 
+## Please Note: When installing Synergy Addons for Google Chrome™, you will receive a warning that Synergy Addons will receive access to your browsing history and data. This is a standard message - we NEVER collect any user information.
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
 ![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons?color=%23ff0000)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/gubareve/synergy-addons)

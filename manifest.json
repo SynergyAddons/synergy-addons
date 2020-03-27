@@ -20,6 +20,7 @@
       "default_popup": "popup.html",
         "default_icon": {
         "16": "images/logo/16x16icon.png",
+        "24": "images/logo/24x24icon.png",
         "32": "images/logo/32x32icon.png",
         "48": "images/logo/32x32icon.png",
         "64": "images/logo/64x64icon.png",

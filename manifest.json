@@ -1,6 +1,6 @@
 {
   "name": "Synergy Addons",
-  "version": "2.0",
+  "version": "2.0.1",
    "background": {
     "scripts": ["background.js"],
     "persistent": false

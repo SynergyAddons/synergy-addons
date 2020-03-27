@@ -65,7 +65,8 @@ If you make a big enough change, we will credit you.
 
 ## Note For Other Districts
 
-Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest.json. Please provide a link to the original project with compliance with APACHE 2.0.
+Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest.json. Please provide a link to the original project with compliance with APACHE 2.0. Feel free to email me at [evan@evangubarev.com] if you have any questions.
+
 
 ## Privacy Policy
 

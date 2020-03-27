@@ -21,7 +21,7 @@ document.getElementById('checkbox').checked = true;
         chrome.storage.local.set({
             'enabled': 'y'
         }, function() {});
-    };
+    }
 });
 
 storage.get('enabled', function(data) {
@@ -30,7 +30,7 @@ storage.get('enabled', function(data) {
         chrome.storage.local.set({
             'enabled': 'y'
         }, function() {});
-    };
+    }
 });
 
 storage.get('enabled', function(data) {
@@ -38,7 +38,7 @@ storage.get('enabled', function(data) {
     document.getElementById('checkbox').checked = true;
   } else {
     document.getElementById('checkbox').checked = false;
-  };
+  }
 });
   
 window.addEventListener('change', function (){
@@ -55,5 +55,5 @@ window.addEventListener('change', function (){
 	chrome.tabs.reload()
       });
        
-     };
+     }
 });

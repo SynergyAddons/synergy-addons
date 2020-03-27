@@ -15,6 +15,6 @@ if(window.location.pathname == "/PXP2_Messages.aspx") {
 		tr[i].addEventListener('mouseleave', function() {
 			this.setAttribute('style', 'background-color: #323232');
 		});
-	};
-  };
+	}
+  }
 });

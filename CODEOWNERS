@@ -1,10 +1,9 @@
 *       @gubareve @thexpiredpear
 *.js    @gubareve @thexpiredpear
-background.js @wickedtree
-*.json    @gubareve
+background.js @gubareve @thexpiredpear
+*.json    @gubareve @thexpiredpear
 *.html    @gubareve @thexpiredpear 
-welcome.html @wickedtree
+welcome.html @gubareve @thexpiredpear
 *.css    @gubareve @thexpiredpear
 *.md    @gubareve @thexpiredpear
 /images/* @gubareve
-/images/logo/ @wickedtree

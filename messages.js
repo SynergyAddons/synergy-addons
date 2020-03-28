@@ -4,9 +4,11 @@
 var storage = chrome.storage.local
 storage.get("enabled", function (data) {
   if (window.location.pathname == "/PXP2_Messages.aspx") {
-		var cssinj = document.createElement("style");
-		var thecss = document.createTextNode(".MessageContent td {background-color: #323232 !important;} tbody tr:hover {background-color: #303030 !important;}");
-		cssinj.appendChild(thecss);
-		document.getElementsByTagName("head")[0].appendChild(cssinj);
+    var cssinj = document.createElement("style")
+    var thecss = document.createTextNode(
+      ".MessageContent td {background-color: #323232 !important;} tbody tr:hover {background-color: #303030 !important;}"
+    )
+    cssinj.appendChild(thecss)
+    document.getElementsByTagName("head")[0].appendChild(cssinj)
   }
 })

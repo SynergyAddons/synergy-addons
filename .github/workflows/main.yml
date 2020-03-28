@@ -31,8 +31,8 @@ jobs:
           # Options for the `prettier` command
           prettier_options: # optional, default is --write **/*.js
           # Target branch for the changes
-          branch: 
+          branch: master
           # Running the script in dry mode just shows whether there are files that should be prettified or not
-          dry: # optional
+          dry: yes # optional
           # Specific version of prettier (by default just use the latest version)
           prettier_version: # optional

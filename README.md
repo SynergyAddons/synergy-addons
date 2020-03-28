@@ -67,7 +67,7 @@ If you make a big enough change, we will credit you.
 
 ## Note For Other Districts
 
-Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest. Please provide a link to the original project with compliance with APACHE 2.0. Feel free to email me at [evan@evangubarev.com] if you have any questions.
+Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest. Please provide a link to the original project with compliance with the MIT license. Feel free to email me at [evan@evangubarev.com] if you have any questions.
 
 
 ## Privacy Policy
@@ -75,5 +75,6 @@ Currently, the extension only works for the Bellevue School District. If someone
 The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addons/blob/master/privacy.md)
 
 ## License
-[APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
-:copyright: 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)
+[MIT](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
+
+© 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)

@@ -4,6 +4,7 @@
 
 var storage = chrome.storage.local
 storage.get("enabled", function (data) {
+  if (data.enabled == "y") {
   var assessments = document.getElementsByClassName("ScheduleName")
   for (i = 0; i < assessments.length; i++) {
     assessments[i].setAttribute("style", "color: white;")
@@ -14,4 +15,4 @@ storage.get("enabled", function (data) {
   )
   cssinj.appendChild(thecss)
   document.getElementsByTagName("head")[0].appendChild(cssinj)
-})
+  }})

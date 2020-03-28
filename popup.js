@@ -3,7 +3,7 @@
 // (c) 2020 Rishi P, Evan G
 var sourceclicked = document.getElementsByClassName("source")
 var source = sourceclicked[0]
-
+storage = chrome.storage.local;
 source.onclick = function (element) {
   chrome.windows.create({
     url: "https://github.com/gubareve/synergy-addons",
@@ -12,42 +12,24 @@ source.onclick = function (element) {
   })
 }
 
-var storage = chrome.storage.local
-chrome.runtime.onInstalled.addListener(function (details) {
-  if (details.reason == "install") {
-    chrome.tabs.create({ url: "popup.html" })
-    document.getElementById("checkbox").checked = true
-    chrome.storage.local.set(
-      {
-        enabled: "y",
-      },
-      function () {}
-    )
-  }
-})
-
-storage.get("enabled", function (data) {
-  if (data.enabled == null) {
-    document.getElementById("checkbox").checked = true
-    chrome.storage.local.set(
-      {
-        enabled: "y",
-      },
-      function () {}
-    )
-  }
-})
 
 storage.get("enabled", function (data) {
   if (data.enabled == "y") {
-    document.getElementById("checkbox").checked = true
+    document.getElementById("checkbox-dark").checked = true
   } else {
-    document.getElementById("checkbox").checked = false
+    document.getElementById("checkbox-dark").checked = false
+  }
+})
+storage.get("idenabled", function (data) {
+  if (data.idenabled == "y") {
+    document.getElementById("checkbox-id").checked = true
+  } else {
+    document.getElementById("checkbox-id").checked = false
   }
 })
 
 window.addEventListener("change", function () {
-  var checked = document.getElementById("checkbox").checked
+  var checked = document.getElementById("checkbox-dark").checked
   if (checked) {
     storage.set({ enabled: "y" }, function () {
       console.log("saved")
@@ -55,6 +37,20 @@ window.addEventListener("change", function () {
     })
   } else {
     storage.set({ enabled: "n" }, function () {
+      console.log("saved")
+      chrome.tabs.reload()
+    })
+  }
+})
+window.addEventListener("change", function () {
+  var checked = document.getElementById("checkbox-id").checked
+  if (checked) {
+    storage.set({ idenabled: "y" }, function () {
+      console.log("saved")
+      chrome.tabs.reload()
+    })
+  } else {
+    storage.set({ idenabled: "n" }, function () {
       console.log("saved")
       chrome.tabs.reload()
     })

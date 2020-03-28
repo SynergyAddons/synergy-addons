@@ -40,7 +40,7 @@ Including:
 
 ## Credit
 
-Original project by [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear). Additional credit to [Johan N.](https://github.com/wickedtree) for logo and welcome page.
+Original project by [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear). Additional credit to [Johan N.](https://github.com/wickedtree) for some enhancements, welcome page, and logo
 
 
 ## Installation

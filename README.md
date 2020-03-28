@@ -8,11 +8,11 @@
 ## Please Note: When installing Synergy Addons for Google Chrome™, you will receive a warning that Synergy Addons will receive access to your browsing history and data. This is a standard message - we NEVER collect any user information.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gubareve/synergy-addons)
-![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons?color=%23ff0000)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/gubareve/synergy-addons)
+[![GitHub](https://img.shields.io/github/license/gubareve/synergy-addons?color=%23ff0000)](https://github.com/SynergyAddons/synergy-addons/blob/master/LICENSE)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/gubareve/synergy-addons)](https://github.com/SynergyAddons/synergy-addons/commits)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gubareve/synergy-addons)
 ![GitHub language count](https://img.shields.io/github/languages/count/gubareve/synergy-addons)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/gubareve/synergy-addons)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/gubareve/synergy-addons)](https://github.com/SynergyAddons/synergy-addons/pulls)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/nbicokodplfghgllebkialdbpdljfinc?color=%23ff0000&label=ratings)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc?color=%23ff0000)

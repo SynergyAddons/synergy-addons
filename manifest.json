@@ -21,7 +21,8 @@
         "a.js",
         "messages.js",
         "popup.js",
-        "assessments.js"
+        "assessments.js",
+        "login.js"
       ]
     }
   ],

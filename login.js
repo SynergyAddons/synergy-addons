@@ -3,5 +3,6 @@
 // (c) 2020 Rishi P, Evan G
 var storage = chrome.storage.local
 storage.get("enabled", function (data) {
-  document.getElementById('ctl00_MainContent_LoginHeading').style.color = 'white';
+  document.getElementById("ctl00_MainContent_LoginHeading").style.color =
+    "white"
 })

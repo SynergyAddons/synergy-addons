@@ -20,7 +20,8 @@
         "greeting.js",
         "a.js",
         "messages.js",
-        "assessments.js"
+        "assessments.js",
+        "login.js"
       ]
     }
   ],

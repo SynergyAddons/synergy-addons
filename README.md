@@ -50,7 +50,7 @@ ___
 For Beta:
 
 1. `git clone git@github.com:gubareve/synergy-addons.git`
-or download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the file.
+or download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the zip.
 
 2. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 3. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
@@ -66,7 +66,7 @@ If you make a big enough change, we will credit you.
 
 ## Note For Other Districts
 
-Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest. Please provide a link to the original project with compliance with APACHE 2.0. Feel free to email me at [evan@evangubarev.com] if you have any questions.
+Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest. Please provide a link to the original project with compliance with the AGPL-3.0 license. Feel free to email me at [evan@evangubarev.com] if you have any questions.
 
 
 ## Privacy Policy
@@ -74,5 +74,6 @@ Currently, the extension only works for the Bellevue School District. If someone
 The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addons/blob/master/privacy.md)
 
 ## License
-[APACHE 2.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
-:copyright: 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)
+[AGPL-3.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
+
+© 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)

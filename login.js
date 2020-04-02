@@ -3,8 +3,6 @@
 // (c) 2020 Rishi P, Evan G
 var storage = chrome.storage.local
 storage.get("enabled", function (data) {
-  var studentid = document.getElementsByClassName("student-id")
-  studentid[0].innerHTML = "[Student ID Hidden]"
-  var info = document.getElementsByClassName("info")
-  info[0].innerHTML = "[Student ID Hidden]"
+  document.getElementById("ctl00_MainContent_LoginHeading").style.color =
+    "white"
 })

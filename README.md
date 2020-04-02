@@ -38,10 +38,6 @@ Including:
 ### Dashboard
 ![Home](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png)
 
-## Credit
-
-Original project by [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear). Additional credit to [Johan N.](https://github.com/wickedtree) for logo, Welcome page, and fixing some issues.
-
 ## Installation
 **CHROME WEB STORE LINK: [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?)**
 
@@ -77,3 +73,7 @@ The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addo
 [AGPL-3.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
 
 © 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)
+
+## Credit
+
+Original project by [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear). Additional credit to [Johan N.](https://github.com/wickedtree) for some enhancements, welcome page, and logo.

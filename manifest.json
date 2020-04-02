@@ -13,7 +13,7 @@
         "https://wa-bsd405-psv.edupoint.com/*"
       ],
       "js": [
-       "content.js",
+        "content.js",
         "studentid.js",
         "dark.js",
         "calender.js",

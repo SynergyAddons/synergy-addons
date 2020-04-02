@@ -3,7 +3,7 @@
 // (c) 2020 Rishi P, Evan G
 var sourceclicked = document.getElementsByClassName("source")
 var source = sourceclicked[0]
-storage = chrome.storage.local;
+storage = chrome.storage.local
 source.onclick = function (element) {
   chrome.windows.create({
     url: "https://github.com/gubareve/synergy-addons",
@@ -11,7 +11,6 @@ source.onclick = function (element) {
     focused: true,
   })
 }
-
 
 storage.get("enabled", function (data) {
   if (data.enabled == "y") {

@@ -53,7 +53,7 @@ or download this [file](https://github.com/gubareve/synergy-addons/archive/maste
 
 ## Usage
 
-You are able to turn this Extension on or off by clicking the synergy addons icon to the right of the address bar. Whenever you visit StudentVUE and the extension is activated, all the tweaks will be applied just like magic.
+You are able to turn this Extension on or off by clicking the synergy addons icon to the right of the address bar. Whenever you visit StudentVUE and the extension is activated, all of the tweaks will be applied just like magic.
 
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

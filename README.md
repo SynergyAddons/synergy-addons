@@ -45,10 +45,10 @@ ___
 
 For Beta:
 
-1. `git clone git@github.com:gubareve/synergy-addons.git`
-or download this [file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the zip.
+1. `git clone git@github.com:SynergyAddons/synergy-addons.git`
+or download [this file](https://github.com/gubareve/synergy-addons/archive/master.zip) as a zip, then extract the zip.
 
-2. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
+2. In the address bar on a new tab, type [**chrome://extensions**](chrome://extensions) to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 3. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
 
 ## Usage

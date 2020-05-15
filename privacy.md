@@ -4,10 +4,6 @@
 
 [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc) does not store, collect, share, sell or otherwise transmit any student data at all for its own purpose or that of any third party.
 
-### Analytics
-
-For app development purposes and better metrics of user interaction with [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc), the extension utilizes the Google Analytics API. This data is transmitted via modern cryptography over a secure connection. 
-
 ### Storage
 
 For its functionality, the app does temporarily store data locally (on the user's computer) during use in the user's own Chrome browser's storage system. This only stores if you want to enable dark mode or not.

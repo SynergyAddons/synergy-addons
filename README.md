@@ -37,6 +37,8 @@ Including:
 ![Login](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/1.png)
 ### Dashboard
 ![Home](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png)
+### There is a nice video demonstrating the features:
+[![Alt text](https://img.youtube.com/vi/QnTwXZdg28k/0.jpg)](https://www.youtube.com/watch?v=QnTwXZdg28k)
 
 ## Installation
 **CHROME WEB STORE LINK: [Synergy Addons](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?)**

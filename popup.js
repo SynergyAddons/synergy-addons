@@ -1,6 +1,6 @@
 // This file is subject to the terms and conditions defined in
 // file 'LICENSE.txt', which is part of this source code package.
-// (c) 2020 Rishi P, Evan G
+// (c) 2020 Rishi P, Evan G, Johan N
 var sourceclicked = document.getElementsByClassName("source")
 var source = sourceclicked[0]
 storage = chrome.storage.local

@@ -80,4 +80,4 @@ The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addo
 
 ## Credit
 
-Original project by [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear). Additional credit to [Johan N.](https://github.com/wickedtree) for some enhancements, welcome page, and logo.
+Original project by [Johan N.](https://github.com/wickedtree), [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear).

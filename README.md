@@ -71,7 +71,7 @@ Currently, the extension only works for the Bellevue School District. If someone
 Feel free to contact us with any questions or concerns at [evan@evangubarev.com](evan@evangubarev.com) or [rishi-dev@persistentbits.com](rishi-dev@persistentbits.com) over any part of this whether it be privacy, security, installation, or usage.
 ## Privacy Policy
 
-The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addons/blob/master/privacy.md) We take privacy seriously and if you have any questions please contact us.
+The Privacy Policy can be found [here. ](https://synergyaddons.github.io/synergy-addons/privacy)We take privacy seriously and if you have any questions please contact us.
 
 ## License
 [AGPL-3.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)

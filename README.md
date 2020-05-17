@@ -76,8 +76,8 @@ The Privacy Policy can be found [here.](https://github.com/gubareve/synergy-addo
 ## License
 [AGPL-3.0](https://github.com/gubareve/synergy-addons/blob/master/LICENSE)
 
-© 2019 - 2020 [Contributors](https://github.com/gubareve/synergy-addons/graphs/contributors)
+© 2019 - 2020 [Contributors](https://github.com/synergyaddons/synergy-addons/graphs/contributors)
 
 ## Credit
 
-Original project by [Johan N.](https://github.com/wickedtree), [Evan G.](https://github.com/gubareve) and [Rishi P](https://github.com/thexpiredpear).
+List of [Contributors](https://github.com/synergyaddons/synergy-addons/graphs/contributors).

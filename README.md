@@ -29,7 +29,7 @@ Including:
  - Better for sleep due to significantly more secretion of melatonin
  - Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision
  - Massively increases battery life
-2. Student ID Hider
+2. Student ID Hider [BETA]
  - Keep away prying eyes that can steal your lunch money and check out books in your name, costing you money!
 
 ## Images
@@ -37,7 +37,7 @@ Including:
 ![Login](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/1.png)
 ### Dashboard
 ![Home](https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png)
-### There is a nice video demonstrating the features:
+### There is a nice video demonstrating the Chrome Extension:
 [![Alt text](https://img.youtube.com/vi/QnTwXZdg28k/0.jpg)](https://www.youtube.com/watch?v=QnTwXZdg28k)
 
 ## Installation

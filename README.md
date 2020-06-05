@@ -1,7 +1,4 @@
-
 # Synergy Addons v3.0.0
-
-# Note: Synergy Addons is no longer receiving support. While this should not effect current use, do not expect any new features to be introduced.
 
 ## LEGAL NOTICE: The plugin is in no way affiliated with Edupoint, nor should it be considered a project endorsed by Edupoint.
 
@@ -83,3 +80,6 @@ The Privacy Policy can be found [here. ](https://synergyaddons.github.io/synergy
 ## Credit
 
 List of [Contributors](https://github.com/synergyaddons/synergy-addons/graphs/contributors).
+
+
+# Note: Synergy Addons is no longer receiving support. While this should not effect current use, do not expect any new features to be introduced. We will still be looking at issues and pull requests. We will approve pr's and merge them into the Chrome Web Store if they are exceptional.

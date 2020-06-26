@@ -1,0 +1,543 @@
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="shortcut icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-5.3.2">
+    
+    
+      
+        <title>Synergy Addons</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.fe0cca5b.min.css">
+      
+        <link rel="stylesheet" href="assets/stylesheets/palette.a46bcfb3.min.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#ff7043">
+      
+    
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="deep-orange" data-md-color-accent="deep-orange">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#synergy-addons-v300" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="." title="Synergy Addons" class="md-header-nav__button md-logo" aria-label="Synergy Addons">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Synergy Addons
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Synergy Addons v3.0.0
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active">
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+        
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Synergy Addons" class="md-nav__button md-logo" aria-label="Synergy Addons">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Synergy Addons
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Synergy Addons v3.0.0
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 9h14V7H3v2m0 4h14v-2H3v2m0 4h14v-2H3v2m16 0h2v-2h-2v2m0-10v2h2V7h-2m0 6h2v-2h-2v2z"/></svg>
+        </span>
+      </label>
+    
+    <a href="." title="Synergy Addons v3.0.0" class="md-nav__link md-nav__link--active">
+      Synergy Addons v3.0.0
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#images" class="md-nav__link">
+    Images
+  </a>
+  
+    <nav class="md-nav" aria-label="Images">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#login-page" class="md-nav__link">
+    Login Page
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dashboard" class="md-nav__link">
+    Dashboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#there-is-a-nice-video-demonstrating-the-chrome-extension" class="md-nav__link">
+    There is a nice video demonstrating the Chrome Extension:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    Installation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage" class="md-nav__link">
+    Usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contribution" class="md-nav__link">
+    Contribution
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#note-for-other-districts" class="md-nav__link">
+    Note For Other Districts
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contact" class="md-nav__link">
+    Contact
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#privacy-policy" class="md-nav__link">
+    Privacy Policy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#license" class="md-nav__link">
+    License
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#credit" class="md-nav__link">
+    Credit
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#images" class="md-nav__link">
+    Images
+  </a>
+  
+    <nav class="md-nav" aria-label="Images">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#login-page" class="md-nav__link">
+    Login Page
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dashboard" class="md-nav__link">
+    Dashboard
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#there-is-a-nice-video-demonstrating-the-chrome-extension" class="md-nav__link">
+    There is a nice video demonstrating the Chrome Extension:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    Installation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#usage" class="md-nav__link">
+    Usage
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contribution" class="md-nav__link">
+    Contribution
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#note-for-other-districts" class="md-nav__link">
+    Note For Other Districts
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contact" class="md-nav__link">
+    Contact
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#privacy-policy" class="md-nav__link">
+    Privacy Policy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#license" class="md-nav__link">
+    License
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#credit" class="md-nav__link">
+    Credit
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  
+                
+                
+                <h1 id="synergy-addons-v300">Synergy Addons v3.0.0<a class="headerlink" href="#synergy-addons-v300" title="Permanent link">&para;</a></h1>
+<div class="admonition note">
+<p class="admonition-title">Legal Notice:</p>
+<p>The plugin is in no way affiliated with Edupoint, nor should it be considered a project endorsed by Edupoint.</p>
+</div>
+<details class="info"><summary>Our policy (tap to expand)</summary><p>OUR POLICY: Synergy Addons extension <strong>does not</strong> collect your data <strong>at all</strong>. <em>The ONLY reason we ask for page access is to change the visuals of Synergy.</em> Synergy Addons is also COPPA and FERPA compliant</p>
+</details>
+<details class="warning"><summary>Please note (tap to expand)</summary><p>Please Note: When installing Synergy Addons for Google Chrome™, you will receive a warning that Synergy Addons will receive access to your browsing history and data. This is a standard message - we NEVER collect any user information.</p>
+</details>
+<p><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gubareve/synergy-addons" />
+<a href="https://github.com/SynergyAddons/synergy-addons/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/gubareve/synergy-addons?color=%23ff0000" /></a>
+<a href="https://github.com/SynergyAddons/synergy-addons/commits"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/gubareve/synergy-addons" /></a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gubareve/synergy-addons" />
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gubareve/synergy-addons" />
+<a href="https://github.com/SynergyAddons/synergy-addons/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/gubareve/synergy-addons" /></a>
+<img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/rating-count/nbicokodplfghgllebkialdbpdljfinc?color=%23ff0000&amp;label=ratings" />
+<img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/stars/nbicokodplfghgllebkialdbpdljfinc?hl=en" />
+<img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc?color=%23ff0000" />
+<img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc" />
+<a href="https://www.codefactor.io/repository/github/synergyaddons/synergy-addons"><img alt="CodeFactor" src="https://www.codefactor.io/repository/github/synergyaddons/synergy-addons/badge" /></a></p>
+<p><a href="https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?hl=en"><img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png"></a></p>
+<p>Synergy Addons tweaks defualt Synergy Studentvue with needed features.</p>
+<p>Including:</p>
+<ol>
+<li>Dark Mode</li>
+<li>Better for sleep due to significantly more secretion of melatonin</li>
+<li>Decreases eye strain, neck and shoulder pain, dry eyes, headaches, and blurred vision</li>
+<li>Massively increases battery life</li>
+<li>Student ID Hider [BETA]</li>
+<li>Keep away prying eyes that can steal your lunch money and check out books in your name, costing you money!</li>
+</ol>
+<h2 id="images">Images<a class="headerlink" href="#images" title="Permanent link">&para;</a></h2>
+<h3 id="login-page">Login Page<a class="headerlink" href="#login-page" title="Permanent link">&para;</a></h3>
+<p><img alt="Login" src="https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/1.png" /></p>
+<h3 id="dashboard">Dashboard<a class="headerlink" href="#dashboard" title="Permanent link">&para;</a></h3>
+<p><img alt="Home" src="https://raw.githubusercontent.com/gubareve/synergy-addons/master/images/2.png" /></p>
+<h3 id="there-is-a-nice-video-demonstrating-the-chrome-extension">There is a nice video demonstrating the Chrome Extension:<a class="headerlink" href="#there-is-a-nice-video-demonstrating-the-chrome-extension" title="Permanent link">&para;</a></h3>
+<p><a href="https://www.youtube.com/watch?v=QnTwXZdg28k"><img alt="Alt text" src="https://img.youtube.com/vi/QnTwXZdg28k/0.jpg" /></a></p>
+<h2 id="installation">Installation<a class="headerlink" href="#installation" title="Permanent link">&para;</a></h2>
+<p><strong>CHROME WEB STORE LINK: <a href="https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?">Synergy Addons</a></strong></p>
+<hr />
+<p>For Beta:</p>
+<ol>
+<li>
+<p><code>git clone git@github.com:SynergyAddons/synergy-addons.git</code>
+or download <a href="https://github.com/gubareve/synergy-addons/archive/master.zip">this file</a> as a zip, then extract the zip.</p>
+</li>
+<li>
+<p>In the address bar on a new tab, type <a href="chrome://extensions"><strong>chrome://extensions</strong></a> to open the Extensions page. Select the <strong>Developer mode</strong> check box to enable loading extensions from a folder.</p>
+</li>
+<li>Click <strong>Load unpacked extension</strong> or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.</li>
+</ol>
+<h2 id="usage">Usage<a class="headerlink" href="#usage" title="Permanent link">&para;</a></h2>
+<p>You are able to turn this Extension on or off by clicking the synergy addons icon to the right of the address bar. Whenever you visit StudentVUE and the extension is activated, all of the tweaks will be applied just like magic.</p>
+<h2 id="contribution">Contribution<a class="headerlink" href="#contribution" title="Permanent link">&para;</a></h2>
+<p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
+<p>If you make a big enough change, we will credit you.</p>
+<h2 id="note-for-other-districts">Note For Other Districts<a class="headerlink" href="#note-for-other-districts" title="Permanent link">&para;</a></h2>
+<p>Currently, the extension only works for the Bellevue School District. If someone from another district wants to host this for their school, feel free to fork and modify the manifest. Please provide a link to the original project with compliance with the AGPL-3.0 license.</p>
+<h2 id="contact">Contact<a class="headerlink" href="#contact" title="Permanent link">&para;</a></h2>
+<p>Feel free to contact us with any questions or concerns at <a href="evan@evangubarev.com">evan@evangubarev.com</a> or <a href="rishi-dev@persistentbits.com">rishi-dev@persistentbits.com</a> over any part of this whether it be privacy, security, installation, or usage.</p>
+<h2 id="privacy-policy">Privacy Policy<a class="headerlink" href="#privacy-policy" title="Permanent link">&para;</a></h2>
+<p>The Privacy Policy can be found <a href="https://synergyaddons.github.io/synergy-addons/privacy">here. </a>We take privacy seriously and if you have any questions please contact us.</p>
+<h2 id="license">License<a class="headerlink" href="#license" title="Permanent link">&para;</a></h2>
+<p><a href="https://github.com/gubareve/synergy-addons/blob/master/LICENSE">AGPL-3.0</a></p>
+<p>© 2019 - 2020 <a href="https://github.com/synergyaddons/synergy-addons/graphs/contributors">Contributors</a></p>
+<h2 id="credit">Credit<a class="headerlink" href="#credit" title="Permanent link">&para;</a></h2>
+<p>List of <a href="https://github.com/synergyaddons/synergy-addons/graphs/contributors">Contributors</a>.</p>
+<div class="admonition important">
+<p class="admonition-title">Synergy Addons EOL</p>
+<p>Synergy Addons is no longer receiving support. While this should not effect current use, do not expect any new features to be introduced. We will still be looking at issues and pull requests. We will approve pr's and merge them into the Chrome Web Store if they are exceptional.</p>
+</div>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="assets/javascripts/vendor.d710d30a.min.js"></script>
+      <script src="assets/javascripts/bundle.7f4f3c92.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents"}</script>
+      
+      <script>
+        app = initialize({
+          base: ".",
+          features: ["instant"],
+          search: Object.assign({
+            worker: "assets/javascripts/worker/search.9b3611bd.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

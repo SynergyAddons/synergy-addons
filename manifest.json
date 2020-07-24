@@ -43,5 +43,9 @@
     "tabs"
   ],
   "description": "Lots of modifications to Synergy StudentVUE!",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "applications": {
+  "gecko": {
+    "id": "gubareve"
+  }
 }

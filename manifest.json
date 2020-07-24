@@ -45,7 +45,8 @@
   "description": "Lots of modifications to Synergy StudentVUE!",
   "manifest_version": 2,
   "applications": {
-  "gecko": {
-    "id": "contact@synergyaddons.kd7t.com"
+    "gecko": {
+      "id": "contact@synergyaddons.kd7t.com"
+    }
   }
 }

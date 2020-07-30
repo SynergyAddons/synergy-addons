@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gubareve
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://synergy.js.org
+  * I am gubareve (https://keybase.io/gubareve) on keybase.
+  * I have a public key with fingerprint 568C 8038 1D3C 4A0A A6DF  F845 35FB 8D82 5EA9 0043
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bb24116af40eb78ae7f724bf6e1bca7afbe6e49bed44a177b95087bdd6035b140a",
+      "fingerprint": "568c80381d3c4a0aa6dff84535fb8d825ea90043",
+      "host": "keybase.io",
+      "key_id": "35fb8d825ea90043",
+      "kid": "0101bb24116af40eb78ae7f724bf6e1bca7afbe6e49bed44a177b95087bdd6035b140a",
+      "uid": "191ed564db084db82bb88680d6992919",
+      "username": "gubareve"
+    },
+    "service": {
+      "hostname": "synergy.js.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1596141643,
+  "expire_in": 157680000,
+  "prev": "4f849deff4c6981a043bf47dc71c361f851ce43a8ae6a08f08a95c1990802325",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJtSBRBGD7L6rooIinKimoNsjhl5nZ2d/ZCCISigiT6+JN0zezMnnva
+7bW7d3VkRXUSiUGhfdIHSYEFRj+CuqJIUyj7MqEffUf+yB9FYFGGEs1K/etn82OG
+eed5nnneh7dr8thAqODEG73p9PVEV8HDjpPpQKwErN4pUZtlpehOqZaPHryOcdeL
+1VpMikoAAkhpBEGoEhMBTjVMuGZqEURNlUNqEI2YlKsc6ZQzhAjUNKorAGuUMRXI
+CoUIECksmVYyzp2UYyU9Iauo2MBAxpDJBiKAEJWZJkaKrJgUMxxRONEBQLIg1tiu
+zxDmKHF5uWWLmrjERu39A/+ffadH5aAOOVNUxCjAYsMRSjFWMWCqrkd0qPtAlztJ
+spULdDxNicMzXNoVlkQ1YxncD9bv5A/CzSa5E8+WJ9xy24kLdsqxPduw68Rbjeel
+3KjP9bIpH7yd09gfmRi1kkwkKRgZ7riWnZSiUCANz/J1oaKrEEEVyWGJ70hZDo9Z
+PkLRhFex/H94RkgiEbbOuGkiQ9UxJCI6aiKNGRo0ZBWaWIEGRzIRoakEYBNgoisG
+1HWAQUSOKJLf2LakLUVVYZPE/ZaseJJ4aUd03Xm3ujBQEAqMHzfGn7BAaOLUv3NX
+PBwMtMyucS6fv7/sRMXtZ59Lnz+ZVzi3YUql+6QHtj21iW60fmyAxYNdm6YdqV/c
+siKuGV2f7Ud9Ha9Yj/HtZWf9y2BJ2cp3e3LB1v3m3WO/2uVTHcEvg3uXPFg7ktvY
+WOGeHrg3dDj0NbYlX7aqqIUdmfO0ev7Qt0+DM94fupMo654QqF3oVb12Cx+/WtFb
+NG1WfkLJ/g/Nu/e1tl/rPVvEUSb9dv2570cbS9GLbGn/j/y6R/3FHTeCs5tz+/JX
+hh/mlh6vOjCn5dyeXLgx0fizsrl9YPLy7gVj02fW3GLVgbamQzOGq9p76i+Gy9WR
+S80zp0+6mQr2Xbi6oG7R3l2JzRuKDr75DRDTQtQ=
+=Tigh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gubareve
+
+==================================================================

@@ -20,7 +20,7 @@
 
 [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">](https://chrome.google.com/webstore/detail/synergy-addons/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 
-Synergy Addons tweaks defualt Synergy Studentvue with needed features.
+Synergy Addons tweaks defualt Synergy Studentvue with many needed features.
 
 Including:
 

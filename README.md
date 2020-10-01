@@ -12,8 +12,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gubareve/synergy-addons)
 ![GitHub language count](https://img.shields.io/github/languages/count/gubareve/synergy-addons)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/gubareve/synergy-addons)](https://github.com/SynergyAddons/synergy-addons/pulls)
-![Chrome Web Store](https://img.shields.io/chrome-web-store/rating-count/nbicokodplfghgllebkialdbpdljfinc?color=%23ff0000&label=ratings)
-![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/nbicokodplfghgllebkialdbpdljfinc?hl=en)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nbicokodplfghgllebkialdbpdljfinc?color=%23ff0000)
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nbicokodplfghgllebkialdbpdljfinc)
 [![CodeFactor](https://www.codefactor.io/repository/github/synergyaddons/synergy-addons/badge)](https://www.codefactor.io/repository/github/synergyaddons/synergy-addons)
